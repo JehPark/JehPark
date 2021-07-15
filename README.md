@@ -8,4 +8,4 @@
 </tr></table>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123qpq)](https://solved.ac/123qpq)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wpgjs1230)](https://solved.ac/wpgjs1230)
